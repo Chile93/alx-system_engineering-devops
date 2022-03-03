@@ -1,1 +1,1 @@
-Shell basic \n:
+Shell basics \n
