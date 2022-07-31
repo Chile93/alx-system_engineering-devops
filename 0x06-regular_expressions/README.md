@@ -3,6 +3,7 @@
 **Table of contents**
 
 | Files| Description |
+| :---------: | :----------: |
 
 
 |0-simply_match_holberton.rb| Ruby script that accepts one argument and pass it to a regular expression matching method that has to match 'Holberton'|
@@ -31,5 +32,5 @@
 
 
 |101-passed_linkedin_regex_challenge.jpg| Screenshot of the solved RegEx puzzle from LinkedIn|
-| --------- | ---------- |
+
 
