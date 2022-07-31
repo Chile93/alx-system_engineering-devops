@@ -1,8 +1,9 @@
 ## 0x06. Regular expression
-
+| Syntax | Description |
+| --------- | ---------- |
 **Table of contents**
 
-|**Files**|	|**Description**|
+|Files|	|Description|
 |0-simply_match_holberton.rb|	|Ruby script that accepts one argument and pass it to a regular expression matching method that has to match 'Holberton'|
 |1-repetition_token_0.rb|	|Ruby script that accepts one argument and pass it to a regular expression matching method that has to match a repetition token|
 |2-repetition_token_1.rb|	|Ruby script that accepts one argument and pass it to a regular expression matching method that has to match a repetition token|
